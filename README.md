@@ -12,7 +12,8 @@ Mes compétences :
 - JAVASCRIPT
 <hr>
 N'hésitez pas à me contacter ✍️<br>
-fidweb-dev@outlook.fr
+<a href="mailto:fidweb-dev@outlook.fr">fidweb-dev@outlook.fr</a>
+
 
 
 <!--

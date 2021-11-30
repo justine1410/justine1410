@@ -11,7 +11,8 @@ Mes compétences :
 - CSS/SASS
 - JAVASCRIPT
 <hr>
-N'hésitez pas à me contacter ✍️
+N'hésitez pas à me contacter ✍️<br>
+fidweb-dev@outlook.fr
 
 
 <!--
